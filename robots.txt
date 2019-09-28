@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dahngairi.weiyiminhenqiang.com/sitemap.xml
